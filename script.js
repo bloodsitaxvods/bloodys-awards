@@ -73,7 +73,7 @@ const categories = [
   },
   {
     title: "MENCIÓN HONROSA",
-    winners: ["std117", "charlxz", "titolopez234", "Y A TODOS EL RESTO DE PERSONITAS QUE SIEMPRE ESTÁ ACOMPAÑANDOME :3"]
+    winners: ["std117", "charlxz", "titolopez234", "Y A TODO EL RESTO DE PERSONITAS QUE SIEMPRE ESTÁ ACOMPAÑANDOME :3"]
   }
   // 👉 aquí agregas las 20 categorías
 ];
@@ -188,4 +188,5 @@ function animateParticles() {
 }
 
 animateParticles();
+
 
