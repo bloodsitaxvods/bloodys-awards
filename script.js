@@ -70,6 +70,10 @@ const categories = [
   {
     title: "BEST MODS",
     winners: ["Gcelsuport", "Rickzero24"]
+  },
+  {
+    title: "MENCIÓN HONROSA",
+    winners: ["std117", "charlxz", "titolopez234", "Y A TODOS EL RESTO DE PERSONITAS QUE SIEMPRE ESTÁ ACOMPAÑANDOME :3"]
   }
   // 👉 aquí agregas las 20 categorías
 ];
@@ -184,3 +188,4 @@ function animateParticles() {
 }
 
 animateParticles();
+
