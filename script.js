@@ -5,7 +5,7 @@ const categories = [
   },
     {
     title: "LOS MEJORES VIPS",
-    winners: ["Patata_malevola", "Kizashi_saya", "Kazuokanta", "Treykler"]
+    winners: ["Patata_malevola", "Kizashi_saya", "Kazuokanta", "Treykler", "Mikroasan","djcombo20"]
   },
   {
     title: "REYES DE RACHA",
@@ -188,6 +188,7 @@ function animateParticles() {
 }
 
 animateParticles();
+
 
 
 
