@@ -25,7 +25,7 @@ const categories = [
   },
   {
     title: "LOS MÁS FIELES",
-    winners: ["GatoSS13", "djcombo20", "Patata_malevola", "ruly0987"]
+    winners: ["GatoSS13", "djcombo20", "Patata_malevola", "ruly0987", "donidonytrabieso"]
   },
   {
     title: "EL MÁS SABOTEADOR",
@@ -41,7 +41,7 @@ const categories = [
   },
   {
     title: "EL MEJOR GAAAA",
-    winners: ["bruuttuusss"]
+    winners: ["bruuttuusss", "Okemi20"]
   },
   {
     title: "LAS MEJORES BIENVENIDAS",
@@ -188,6 +188,7 @@ function animateParticles() {
 }
 
 animateParticles();
+
 
 
 
