@@ -45,7 +45,7 @@ const categories = [
   },
   {
     title: "LAS MEJORES BIENVENIDAS",
-    winners: ["Alejandraokkotsu", "Rojomaster_55", "black_pyros_", "bruuttuusss", "ONEFAZ69", "novato1k0"]
+    winners: ["Alejandraokkotsu", "Rojomaster_55", "black_pyros_", "bruuttuusss", "ONEFAZ69", "novato1k0", "Tio_Boris27"]
   },
   {
     title: "EL MÁS ANÓNIMO",
@@ -188,5 +188,6 @@ function animateParticles() {
 }
 
 animateParticles();
+
 
 
